@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\Mingi bitcoin teema.exe
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\Mingi bitcoin teema.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\Mingi bitcoin teema.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\Mingi bitcoin teema.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\Mingi bitcoin teema.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\Mingi bitcoin teema.deps.json
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\Mingi bitcoin teema.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\Mingi bitcoin teema.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\Mingi bitcoin teema.dll
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\Mingi bitcoin teema.pdb
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\Mingi bitcoin teema.csproj.CopyComplete
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\Mingi bitcoin teema.dll
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\Mingi bitcoin teema.pdb
+C:\Users\opilane\source\repos\LOGITPE21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\Mingi bitcoin teema.genruntimeconfig.cache
